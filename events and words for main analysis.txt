@@ -1,0 +1,51 @@
+year,event,positive,human made,human deaths,distance from US,word1,word2,word3,word4,word5,word6,word7,word8,word9
+1812-1815,War of 1812,False,True,35000,0,war,british,american,fort,battle
+1815,Battle of Waterloo,True,True,40000,5175,battle,cavalry
+1837,Invention of the Morse code,True,True,0,0,morse,code
+1845-1852,Irish potato famine,False,False,1000000,4208,ireland,irish,famine,potato,potatoes
+1851,First World Fair,True,True,0,4852,exhibition,exhibitions,fair,exposition
+1852,Publication of Uncle Toms Cabin,True,True,0,0,tom,uncle,cabin,slavery,slave,negro
+1859,Publication of On the Origin of Species,True,True,0,4850,darwin,evolution,specie,species,theory,selection
+1861-1865,American civil war,False,True,850000,0,war,union,civil,confederate,american,army,south
+1865,Abolition of slavery in the US,True,True,0,0,slavery,slave,freedom,emancipation,abolition,negro
+1868,Meiji restoration,True,True,0,8300,japan,japanese,emperor
+1871,Great Chicago fire,False,False,300,0,fire
+1879,Devlopment of the light bulb,True,True,0,0,light,lights,lighting,lamp,bulb,bulbs
+1889,Johnstown flood,False,False,2208,0,dam,flood
+1896,First modern Olympic Games,True,True,0,7598,game,games,athlete,sports,event
+1903,Hay-Bunao Varilla treaty,True,True,0,0,panama,canal,treaty
+1906,San Francisco earthquake,False,False,1850,0,earthquake,disaster,fire,fires
+1908,Ford Model T put on the market,True,True,0,0,ford,car,cars,horse
+1911,1911 revolution,True,True,220000,9754,china,chinese,revolution,revolutionary,revolutionaries,ching
+1914-1918,WWI,False,True,18500000,5078,war,german,germany,battle,trench
+1917-1922,Russian revolution,False,True,10000000,6190,revolution,russia,russian
+1918-1920,Spanish flu pandemic,False,False,37500000,0,flu,influenza,pandemic,disease,virus
+1920,First commercial radio broadcast,True,True,0,0,frequency,signal,wave,waves,radio
+1921,Launch of Chanel No.5,True,True,0,5120,5,five,perfume,fragrance
+1929,Wall Street crash of 1929,False,True,0,0,crisis,market,stock,financial,economic,depression
+1936-1939,Spanish civil war,False,True,500000,5470,spain,spanish,republican,franco,nationalist,nationalists
+1939-1945,WWII,False,True,77500000,3917,war,german,germany,soviet,japan,japanese,allies,allied,axis
+1941-1945,Widespread of penicillin,True,True,-100000,0,bacteria
+1945,Foundation of the UN,True,True,0,0,un
+1947,Ratification of the constitution of Italy,True,True,0,6575,italy,italian,rome,roman,constitution,republic
+1955-1961,Development of polio vaccines for use in the US,True,True,0,0,vaccine,vaccines,vaccination
+1956,Suez crisis,False,True,3529,9643,suez,canal,war,egypt,egyptian,crisis
+1956-1959,Cuban revolution,False,True,3000,263,cuba,cuban,castro,revolution,war
+1959,Publication of Kind of Blue,True,True,0,0,blue,jazz,album
+1962,Cuban missile crisis,False,True,1,263,cuba,cuban,crisis,missile,missiles,kennedy,soviet,castro
+1963,Assassination of JFK,False,True,1,0,kennedy,assassination,president
+1964-1971,British invasion,True,True,0,0,rock,music,invasion,pop
+1966-1976,Cultural revolution,True,True,5220000,9178,china,chinese,mao,red
+1967,Six-day war,False,True,15814,9572,war,israel,israeli,arab,arabia,arabic
+1969,Stonewall riots,True,True,0,0,riot,riots,gay,police
+1969,Apollo 11 moon landing,True,True,0,384400,moon,lunar,apollo,space
+1973,Yom-Kippur war,False,True,16407,9572,war,israel,israeli,arab,arabia,arabic
+1973,1973 oil crisis,False,True,0,0,oil,crisis,war,embargo,energy
+1978-1979,Iranian revolution,False,True,23000,9563,iran,iranian,revolution,shah,islam,islamic
+1981,Discovery of HIV/AIDS,False,False,20000,0,virus,viral,infection,gay
+1986,Space Shuttle Challenger disaster,False,True,7,0,space,shuttle,nasa
+1986,Chernobyl nuclear disaster,False,True,8000,6725,nuclear,radiation,reactor
+1989-1991,Fall of the USSR,True,True,0,6818,soviet,ussr,russia,russian,communist,communism
+1989,Fall of the Berlin Wall,True,True,0,5658,wall,berlin,germany,german
+1989,Tien An Men square massacre,False,True,1320,9164,china,chinese,beijing
+1990-1991,Gulf War,False,True,175000,10128,war,gulf,terrorist,terrorism,iraq,iraqi,kuwait,desert

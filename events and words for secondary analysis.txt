@@ -1,0 +1,36 @@
+year,event,positive,human made,human deaths,distance from US,word1,word2,word3
+1812-1815,War of 1812,False,True,35000,0,war
+1815,Battle of Waterloo,True,True,40000,5175,war
+1837,Invention of the Morse code,True,True,0,0,science
+1851,First World Fair,True,True,0,4852,science
+1859,Publication of On the Origin of Species,True,True,0,4850,science
+1861-1865,American civil war,False,True,850000,0,war
+1879,Devlopment of the light bulb,True,True,0,0,science
+1908,Ford Model T put on the market,True,True,0,0,science
+1911,1911 revolution,True,True,220000,9754,war
+1914-1918,WWI,False,True,18500000,5078,war,science
+1917-1922,Russian revolution,,True,10000000,6190,war,communism
+1918-1920,Spanish flu pandemic,False,False,37500000,0,science
+1920,First commercial radio broadcast,True,True,0,0,science
+1936-1939,Spanish civil war,False,True,500000,5470,war
+1939-1945,WWII,False,True,77500000,3917,war,science,communism
+1941-1945,Widespread of penicillin,True,True,-100000,0,science
+1945,Foundation of the UN,True,True,0,0,war
+1955-1961,Development of polio vaccines for use in the US,True,True,0,0,science
+1956,Suez crisis,False,True,3529,9643,war
+1956-1959,Cuban revolution,False,True,3000,263,war,communism
+1962,Cuban missile crisis,False,True,1,263,war,communism
+1963,Assassination of JFK,False,True,1,0,communism
+1966-1976,Cultural revolution,True,True,5220000,9178,communism
+1967,Six-day war,False,True,15814,9572,war
+1969,Apollo 11 moon landing,True,True,0,384400,science
+1973,Yom-Kippur war,False,True,16407,9572,war
+1973,1973 oil crisis,False,True,0,0,war
+1978-1979,Iranian revolution,False,True,23000,9563,war
+1981,Discovery of HIV/AIDS,False,False,20000,0,science
+1986,Space Shuttle Challenger disaster,False,True,7,0,science
+1986,Chernobyl nuclear disaster,False,True,8000,6725,science
+1989-1991,Fall of the USSR,,True,0,6818,communism
+1989,Fall of the Berlin Wall,True,True,0,5658,communism
+1989,Tien An Men square massacre,False,True,1320,9164,communism
+1990-1991,Gulf War,False,True,175000,10128,war
