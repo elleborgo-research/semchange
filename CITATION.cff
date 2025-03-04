@@ -3,6 +3,7 @@ message: "Right below you can download a convenient citation file."
 authors:
 - family-names: "Borgonovo"
   given-names: "Luca"
+  orcid: "https://orcid.org/0009-0003-5044-8284"
 title: "semchange"
 version: 1.0
 date-released: 2025-03-04
